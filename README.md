@@ -1,4 +1,3 @@
 # surf-zac
-Surf the world wide web with surfzac. 
-Surfzac has a sleek, modern design, and is lightning fast.
+SurfZac is a modern browser made with Chromium Embedded Framework. SurfZac release in late march/early april.
 Under MIT License
