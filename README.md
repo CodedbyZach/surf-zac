@@ -4,3 +4,6 @@ Under MIT License
 
 
 SurfZac beta version is only available to select users. I am the only one who can handpick them.
+
+
+![SurfZac Preview](Pasted image.png)
