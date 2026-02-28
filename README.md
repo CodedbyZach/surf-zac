@@ -3,7 +3,7 @@ SurfZac is a modern browser made with Chromium Embedded Framework. SurfZac relea
 Under MIT License
 
 
-SurfZac beta version is only available to select users. I am the only one who can handpick them.
 
 
+Example of SurfZac:
 ![SurfZac Preview](SurfZacPreviewImageBeta.png)
