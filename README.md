@@ -1,4 +1,5 @@
 # Surf Zac
+## Current Version: 26.02.0
 Surf Zac is a modern browser made with Chromium Embedded Framework (CEF). Release is expected in mid-march
 Under the MIT License [here](https://github.com/CodedbyZach/surf-zac/blob/release/LICENSE)
 
