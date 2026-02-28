@@ -1,6 +1,6 @@
-# SurfZac
-SurfZac is a modern browser made with Chromium Embedded Framework (CEF). Release is expected in mid-march
-Under the MIT License
+# Surf Zac
+Surf Zac is a modern browser made with Chromium Embedded Framework (CEF). Release is expected in mid-march
+Under the MIT License [here](https://github.com/CodedbyZach/surf-zac/blob/release/LICENSE)
 
 Example of SurfZac:
 ![SurfZac Preview](images/SurfZacPreviewImageBeta.png)
@@ -15,3 +15,5 @@ SurfZac is nice and lightweight! It is only 2.3 MB, compared to Google Chrome wh
 
 
 **Currently, SurfZac only exists for Debian-based linux users. It will be rolling out to Windows (Late March) and then Android (Early-Mid April) in the coming few months.**
+
+Numbering System: YY/MM/Patch (same as AskZac)
