@@ -10,3 +10,5 @@ cef_binary_*/
 *.so
 *.dylib
 *.log
+*.AppImage
+*.deb
