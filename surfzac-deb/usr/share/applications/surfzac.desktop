@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SurfZac
+Exec=surfzac --no-sandbox
+Icon=surfzac
+Type=Application
+Categories=Network;WebBrowser;
+Terminal=false
+StartupWMClass=surfzac
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;
+Homepage=https://codedbyzach.com

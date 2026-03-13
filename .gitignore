@@ -1,0 +1,12 @@
+build/
+out/
+Debug/
+Release/
+cef_binary_*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.log

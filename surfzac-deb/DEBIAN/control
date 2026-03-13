@@ -1,0 +1,8 @@
+Package: surfzac
+Version: 26.03.0
+Section: web
+Priority: optional
+Architecture: amd64
+Maintainer: Coded by Zach
+Description: SurfZac Web Browser
+ Lightweight Chromium-based browser built with CEF.
