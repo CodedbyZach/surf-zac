@@ -5,6 +5,6 @@ Surf Zac is a modern browser made with Chromium Embedded Framework (CEF). Full r
 Under the MIT License [here](https://github.com/CodedbyZach/surf-zac/blob/release/LICENSE) (raw license available [here](https://raw.githubusercontent.com/CodedbyZach/surf-zac/refs/heads/release/LICENSE))
 
 
-**Currently, SurfZac only exists for linux. It will be rolling out to Windows on March 15th and then Android in Early-Mid April.**
+**Currently, SurfZac only exists for linux. It will be rolling out to Windows on April 2nd then possibly for android.**
 
 Numbering System: YY/MM/PatchNum
